@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /polerones-personalizados/hombre_products.txt
+Disallow: /polerones-personalizados/customize_especiales.sh
+
+Sitemap: https://polerones-personalizados-santiago.pages.dev/sitemap.xml
