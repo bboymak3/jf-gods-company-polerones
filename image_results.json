@@ -1,1242 +1,932 @@
 [
   {
-    "webp": "assets/images/webp/decoración-fiestas-baby-shower-cumpleaños-santiago-eventos-temáticos-decoración-chile-fiestas-personalizadas-en-paine-001.webp",
-    "type": "fiesta",
-    "comuna": "paine",
-    "index": 1,
-    "orig_size": 135490,
-    "webp_size": 55464
-  },
-  {
-    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoración-eventos-dulces-golosinas-santiago-chile-en-colina-002.webp",
-    "type": "candy",
-    "comuna": "colina",
-    "index": 2,
-    "orig_size": 141690,
-    "webp_size": 61280
-  },
-  {
-    "webp": "assets/images/webp/decoración-fiestas-baby-shower-cumpleaños-santiago-eventos-temáticos-decoración-chile-fiestas-personalizadas-en-pirque-003.webp",
-    "type": "fiesta",
-    "comuna": "pirque",
-    "index": 3,
-    "orig_size": 114053,
-    "webp_size": 44372
-  },
-  {
-    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoración-eventos-dulces-golosinas-santiago-chile-en-tiltil-004.webp",
-    "type": "candy",
-    "comuna": "tiltil",
-    "index": 4,
-    "orig_size": 207681,
-    "webp_size": 94128
-  },
-  {
-    "webp": "assets/images/webp/decoración-fiestas-baby-shower-cumpleaños-santiago-eventos-temáticos-decoración-chile-fiestas-personalizadas-en-melipilla-005.webp",
-    "type": "fiesta",
-    "comuna": "melipilla",
-    "index": 5,
-    "orig_size": 140970,
-    "webp_size": 57134
-  },
-  {
-    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoración-eventos-dulces-golosinas-santiago-chile-en-alhue-006.webp",
-    "type": "candy",
-    "comuna": "alhue",
-    "index": 6,
-    "orig_size": 136928,
-    "webp_size": 55958
-  },
-  {
-    "webp": "assets/images/webp/decoración-fiestas-baby-shower-cumpleaños-santiago-eventos-temáticos-decoración-chile-fiestas-personalizadas-en-santiago-007.webp",
-    "type": "fiesta",
-    "comuna": "santiago",
-    "index": 7,
-    "orig_size": 169802,
-    "webp_size": 74392
-  },
-  {
-    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoración-eventos-dulces-golosinas-santiago-chile-en-conchali-008.webp",
-    "type": "candy",
-    "comuna": "conchali",
-    "index": 8,
-    "orig_size": 125143,
-    "webp_size": 50914
-  },
-  {
-    "webp": "assets/images/webp/decoración-fiestas-baby-shower-cumpleaños-santiago-eventos-temáticos-decoración-chile-fiestas-personalizadas-en-el-bosque-009.webp",
-    "type": "fiesta",
-    "comuna": "el-bosque",
-    "index": 9,
-    "orig_size": 189782,
-    "webp_size": 84786
-  },
-  {
-    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoración-eventos-dulces-golosinas-santiago-chile-en-la-granja-010.webp",
-    "type": "candy",
-    "comuna": "la-granja",
-    "index": 10,
-    "orig_size": 172388,
-    "webp_size": 80410
-  },
-  {
-    "webp": "assets/images/webp/decoración-fiestas-baby-shower-cumpleaños-santiago-eventos-temáticos-decoración-chile-fiestas-personalizadas-en-huechuraba-011.webp",
-    "type": "fiesta",
-    "comuna": "huechuraba",
-    "index": 11,
-    "orig_size": 113503,
-    "webp_size": 45286
-  },
-  {
-    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoración-eventos-dulces-golosinas-santiago-chile-en-cerro-navia-012.webp",
-    "type": "candy",
-    "comuna": "cerro-navia",
-    "index": 12,
-    "orig_size": 90698,
-    "webp_size": 33704
-  },
-  {
-    "webp": "assets/images/webp/decoración-fiestas-baby-shower-cumpleaños-santiago-eventos-temáticos-decoración-chile-fiestas-personalizadas-en-san-bernardo-013.webp",
-    "type": "fiesta",
-    "comuna": "san-bernardo",
-    "index": 13,
-    "orig_size": 182367,
-    "webp_size": 55416
-  },
-  {
-    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoración-eventos-dulces-golosinas-santiago-chile-en-san-joaquin-014.webp",
-    "type": "candy",
-    "comuna": "san-joaquin",
-    "index": 14,
-    "orig_size": 120283,
-    "webp_size": 48442
-  },
-  {
-    "webp": "assets/images/webp/decoración-fiestas-baby-shower-cumpleaños-santiago-eventos-temáticos-decoración-chile-fiestas-personalizadas-en-independencia-015.webp",
-    "type": "fiesta",
-    "comuna": "independencia",
-    "index": 15,
-    "orig_size": 121320,
-    "webp_size": 34104
-  },
-  {
-    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoración-eventos-dulces-golosinas-santiago-chile-en-padre-hurtado-016.webp",
-    "type": "candy",
-    "comuna": "padre-hurtado",
-    "index": 16,
-    "orig_size": 101295,
-    "webp_size": 37540
-  },
-  {
-    "webp": "assets/images/webp/decoración-fiestas-baby-shower-cumpleaños-santiago-eventos-temáticos-decoración-chile-fiestas-personalizadas-en-buin-017.webp",
-    "type": "fiesta",
-    "comuna": "buin",
-    "index": 17,
-    "orig_size": 171484,
-    "webp_size": 50088
-  },
-  {
-    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoración-eventos-dulces-golosinas-santiago-chile-en-lampa-018.webp",
-    "type": "candy",
-    "comuna": "lampa",
-    "index": 18,
-    "orig_size": 166337,
-    "webp_size": 67024
-  },
-  {
-    "webp": "assets/images/webp/decoración-fiestas-baby-shower-cumpleaños-santiago-eventos-temáticos-decoración-chile-fiestas-personalizadas-en-paine-019.webp",
-    "type": "fiesta",
-    "comuna": "paine",
-    "index": 19,
-    "orig_size": 169207,
-    "webp_size": 79438
-  },
-  {
-    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoración-eventos-dulces-golosinas-santiago-chile-en-colina-020.webp",
-    "type": "candy",
-    "comuna": "colina",
-    "index": 20,
-    "orig_size": 163778,
-    "webp_size": 69934
-  },
-  {
-    "webp": "assets/images/webp/decoración-fiestas-baby-shower-cumpleaños-santiago-eventos-temáticos-decoración-chile-fiestas-personalizadas-en-pirque-021.webp",
-    "type": "fiesta",
-    "comuna": "pirque",
-    "index": 21,
-    "orig_size": 178108,
-    "webp_size": 75966
-  },
-  {
-    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoración-eventos-dulces-golosinas-santiago-chile-en-tiltil-022.webp",
-    "type": "candy",
-    "comuna": "tiltil",
-    "index": 22,
-    "orig_size": 158931,
-    "webp_size": 70278
-  },
-  {
-    "webp": "assets/images/webp/decoración-fiestas-baby-shower-cumpleaños-santiago-eventos-temáticos-decoración-chile-fiestas-personalizadas-en-melipilla-023.webp",
-    "type": "fiesta",
-    "comuna": "melipilla",
-    "index": 23,
-    "orig_size": 198602,
-    "webp_size": 80094
-  },
-  {
-    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoración-eventos-dulces-golosinas-santiago-chile-en-alhue-024.webp",
-    "type": "candy",
-    "comuna": "alhue",
-    "index": 24,
-    "orig_size": 184434,
-    "webp_size": 87528
-  },
-  {
-    "webp": "assets/images/webp/decoración-fiestas-baby-shower-cumpleaños-santiago-eventos-temáticos-decoración-chile-fiestas-personalizadas-en-santiago-025.webp",
-    "type": "fiesta",
-    "comuna": "santiago",
-    "index": 25,
-    "orig_size": 163403,
-    "webp_size": 73906
-  },
-  {
-    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoración-eventos-dulces-golosinas-santiago-chile-en-conchali-026.webp",
-    "type": "candy",
-    "comuna": "conchali",
-    "index": 26,
-    "orig_size": 153696,
-    "webp_size": 66468
-  },
-  {
-    "webp": "assets/images/webp/decoración-fiestas-baby-shower-cumpleaños-santiago-eventos-temáticos-decoración-chile-fiestas-personalizadas-en-el-bosque-027.webp",
-    "type": "fiesta",
-    "comuna": "el-bosque",
-    "index": 27,
-    "orig_size": 170428,
-    "webp_size": 80376
-  },
-  {
-    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoración-eventos-dulces-golosinas-santiago-chile-en-la-granja-028.webp",
-    "type": "candy",
-    "comuna": "la-granja",
-    "index": 28,
-    "orig_size": 134305,
-    "webp_size": 54368
-  },
-  {
-    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoración-eventos-dulces-golosinas-santiago-chile-en-huechuraba-029.webp",
-    "type": "candy",
-    "comuna": "huechuraba",
-    "index": 29,
-    "orig_size": 146762,
-    "webp_size": 54018
-  },
-  {
-    "webp": "assets/images/webp/decoración-fiestas-baby-shower-cumpleaños-santiago-eventos-temáticos-decoración-chile-fiestas-personalizadas-en-cerro-navia-030.webp",
-    "type": "fiesta",
-    "comuna": "cerro-navia",
-    "index": 30,
-    "orig_size": 71326,
-    "webp_size": 22966
-  },
-  {
-    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoración-eventos-dulces-golosinas-santiago-chile-en-san-bernardo-031.webp",
-    "type": "candy",
-    "comuna": "san-bernardo",
-    "index": 31,
-    "orig_size": 96635,
-    "webp_size": 31546
-  },
-  {
-    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoración-eventos-dulces-golosinas-santiago-chile-en-san-joaquin-032.webp",
-    "type": "candy",
-    "comuna": "san-joaquin",
-    "index": 32,
-    "orig_size": 138830,
-    "webp_size": 49948
-  },
-  {
-    "webp": "assets/images/webp/decoración-fiestas-baby-shower-cumpleaños-santiago-eventos-temáticos-decoración-chile-fiestas-personalizadas-en-independencia-033.webp",
-    "type": "fiesta",
-    "comuna": "independencia",
-    "index": 33,
-    "orig_size": 193676,
-    "webp_size": 88320
-  },
-  {
-    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoración-eventos-dulces-golosinas-santiago-chile-en-padre-hurtado-034.webp",
-    "type": "candy",
-    "comuna": "padre-hurtado",
-    "index": 34,
-    "orig_size": 137332,
-    "webp_size": 54482
-  },
-  {
-    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoración-eventos-dulces-golosinas-santiago-chile-en-buin-035.webp",
-    "type": "candy",
-    "comuna": "buin",
-    "index": 35,
-    "orig_size": 138844,
-    "webp_size": 62030
-  },
-  {
-    "webp": "assets/images/webp/decoración-fiestas-baby-shower-cumpleaños-santiago-eventos-temáticos-decoración-chile-fiestas-personalizadas-en-lampa-036.webp",
-    "type": "fiesta",
-    "comuna": "lampa",
-    "index": 36,
-    "orig_size": 158270,
-    "webp_size": 66508
-  },
-  {
-    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoración-eventos-dulces-golosinas-santiago-chile-en-paine-037.webp",
-    "type": "candy",
-    "comuna": "paine",
-    "index": 37,
-    "orig_size": 112407,
-    "webp_size": 43926
-  },
-  {
-    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoración-eventos-dulces-golosinas-santiago-chile-en-colina-038.webp",
-    "type": "candy",
-    "comuna": "colina",
-    "index": 38,
-    "orig_size": 84549,
-    "webp_size": 29468
-  },
-  {
-    "webp": "assets/images/webp/decoración-fiestas-baby-shower-cumpleaños-santiago-eventos-temáticos-decoración-chile-fiestas-personalizadas-en-pirque-039.webp",
-    "type": "fiesta",
-    "comuna": "pirque",
-    "index": 39,
-    "orig_size": 110766,
-    "webp_size": 40750
-  },
-  {
-    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoración-eventos-dulces-golosinas-santiago-chile-en-tiltil-040.webp",
-    "type": "candy",
-    "comuna": "tiltil",
-    "index": 40,
-    "orig_size": 99777,
-    "webp_size": 38014
-  },
-  {
-    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoración-eventos-dulces-golosinas-santiago-chile-en-melipilla-041.webp",
-    "type": "candy",
-    "comuna": "melipilla",
-    "index": 41,
-    "orig_size": 221945,
-    "webp_size": 113314
-  },
-  {
-    "webp": "assets/images/webp/decoración-fiestas-baby-shower-cumpleaños-santiago-eventos-temáticos-decoración-chile-fiestas-personalizadas-en-alhue-042.webp",
-    "type": "fiesta",
-    "comuna": "alhue",
-    "index": 42,
-    "orig_size": 97296,
-    "webp_size": 34948
-  },
-  {
-    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoración-eventos-dulces-golosinas-santiago-chile-en-santiago-043.webp",
+    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoracion-eventos-dulces-golosinas-santiago-chile-en-alhue-006.webp",
     "type": "candy",
     "comuna": "santiago",
-    "index": 43,
-    "orig_size": 159022,
-    "webp_size": 71282
+    "index": 1
   },
   {
-    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoración-eventos-dulces-golosinas-santiago-chile-en-conchali-044.webp",
-    "type": "candy",
-    "comuna": "conchali",
-    "index": 44,
-    "orig_size": 117580,
-    "webp_size": 47348
-  },
-  {
-    "webp": "assets/images/webp/decoración-fiestas-baby-shower-cumpleaños-santiago-eventos-temáticos-decoración-chile-fiestas-personalizadas-en-el-bosque-045.webp",
-    "type": "fiesta",
-    "comuna": "el-bosque",
-    "index": 45,
-    "orig_size": 211098,
-    "webp_size": 68566
-  },
-  {
-    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoración-eventos-dulces-golosinas-santiago-chile-en-la-granja-046.webp",
-    "type": "candy",
-    "comuna": "la-granja",
-    "index": 46,
-    "orig_size": 167566,
-    "webp_size": 74584
-  },
-  {
-    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoración-eventos-dulces-golosinas-santiago-chile-en-huechuraba-047.webp",
-    "type": "candy",
-    "comuna": "huechuraba",
-    "index": 47,
-    "orig_size": 276338,
-    "webp_size": 74394
-  },
-  {
-    "webp": "assets/images/webp/decoración-fiestas-baby-shower-cumpleaños-santiago-eventos-temáticos-decoración-chile-fiestas-personalizadas-en-cerro-navia-048.webp",
-    "type": "fiesta",
-    "comuna": "cerro-navia",
-    "index": 48,
-    "orig_size": 227838,
-    "webp_size": 74518
-  },
-  {
-    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoración-eventos-dulces-golosinas-santiago-chile-en-san-bernardo-049.webp",
-    "type": "candy",
-    "comuna": "san-bernardo",
-    "index": 49,
-    "orig_size": 193201,
-    "webp_size": 56730
-  },
-  {
-    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoración-eventos-dulces-golosinas-santiago-chile-en-san-joaquin-050.webp",
-    "type": "candy",
-    "comuna": "san-joaquin",
-    "index": 50,
-    "orig_size": 155383,
-    "webp_size": 63720
-  },
-  {
-    "webp": "assets/images/webp/decoración-fiestas-baby-shower-cumpleaños-santiago-eventos-temáticos-decoración-chile-fiestas-personalizadas-en-independencia-051.webp",
-    "type": "fiesta",
-    "comuna": "independencia",
-    "index": 51,
-    "orig_size": 275544,
-    "webp_size": 85970
-  },
-  {
-    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoración-eventos-dulces-golosinas-santiago-chile-en-padre-hurtado-052.webp",
-    "type": "candy",
-    "comuna": "padre-hurtado",
-    "index": 52,
-    "orig_size": 168542,
-    "webp_size": 47942
-  },
-  {
-    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoración-eventos-dulces-golosinas-santiago-chile-en-buin-053.webp",
-    "type": "candy",
-    "comuna": "buin",
-    "index": 53,
-    "orig_size": 263425,
-    "webp_size": 86180
-  },
-  {
-    "webp": "assets/images/webp/decoración-fiestas-baby-shower-cumpleaños-santiago-eventos-temáticos-decoración-chile-fiestas-personalizadas-en-lampa-054.webp",
-    "type": "fiesta",
-    "comuna": "lampa",
-    "index": 54,
-    "orig_size": 115575,
-    "webp_size": 44420
-  },
-  {
-    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoración-eventos-dulces-golosinas-santiago-chile-en-paine-055.webp",
-    "type": "candy",
-    "comuna": "paine",
-    "index": 55,
-    "orig_size": 195256,
-    "webp_size": 61596
-  },
-  {
-    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoración-eventos-dulces-golosinas-santiago-chile-en-colina-056.webp",
-    "type": "candy",
-    "comuna": "colina",
-    "index": 56,
-    "orig_size": 105807,
-    "webp_size": 29606
-  },
-  {
-    "webp": "assets/images/webp/decoración-fiestas-baby-shower-cumpleaños-santiago-eventos-temáticos-decoración-chile-fiestas-personalizadas-en-pirque-057.webp",
-    "type": "fiesta",
-    "comuna": "pirque",
-    "index": 57,
-    "orig_size": 163329,
-    "webp_size": 50282
-  },
-  {
-    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoración-eventos-dulces-golosinas-santiago-chile-en-tiltil-058.webp",
-    "type": "candy",
-    "comuna": "tiltil",
-    "index": 58,
-    "orig_size": 173617,
-    "webp_size": 51658
-  },
-  {
-    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoración-eventos-dulces-golosinas-santiago-chile-en-melipilla-059.webp",
-    "type": "candy",
-    "comuna": "melipilla",
-    "index": 59,
-    "orig_size": 92646,
-    "webp_size": 32268
-  },
-  {
-    "webp": "assets/images/webp/decoración-fiestas-baby-shower-cumpleaños-santiago-eventos-temáticos-decoración-chile-fiestas-personalizadas-en-alhue-060.webp",
-    "type": "fiesta",
-    "comuna": "alhue",
-    "index": 60,
-    "orig_size": 111810,
-    "webp_size": 29388
-  },
-  {
-    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoración-eventos-dulces-golosinas-santiago-chile-en-santiago-061.webp",
+    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoracion-eventos-dulces-golosinas-santiago-chile-en-alhue-024.webp",
     "type": "candy",
     "comuna": "santiago",
-    "index": 61,
-    "orig_size": 128963,
-    "webp_size": 51628
+    "index": 2
   },
   {
-    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoración-eventos-dulces-golosinas-santiago-chile-en-conchali-062.webp",
-    "type": "candy",
-    "comuna": "conchali",
-    "index": 62,
-    "orig_size": 246910,
-    "webp_size": 62488
-  },
-  {
-    "webp": "assets/images/webp/decoración-fiestas-baby-shower-cumpleaños-santiago-eventos-temáticos-decoración-chile-fiestas-personalizadas-en-el-bosque-063.webp",
-    "type": "fiesta",
-    "comuna": "el-bosque",
-    "index": 63,
-    "orig_size": 114123,
-    "webp_size": 31358
-  },
-  {
-    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoración-eventos-dulces-golosinas-santiago-chile-en-la-granja-064.webp",
-    "type": "candy",
-    "comuna": "la-granja",
-    "index": 64,
-    "orig_size": 89983,
-    "webp_size": 25404
-  },
-  {
-    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoración-eventos-dulces-golosinas-santiago-chile-en-huechuraba-065.webp",
-    "type": "candy",
-    "comuna": "huechuraba",
-    "index": 65,
-    "orig_size": 232040,
-    "webp_size": 69934
-  },
-  {
-    "webp": "assets/images/webp/decoración-fiestas-baby-shower-cumpleaños-santiago-eventos-temáticos-decoración-chile-fiestas-personalizadas-en-cerro-navia-066.webp",
-    "type": "fiesta",
-    "comuna": "cerro-navia",
-    "index": 66,
-    "orig_size": 163234,
-    "webp_size": 49414
-  },
-  {
-    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoración-eventos-dulces-golosinas-santiago-chile-en-san-bernardo-067.webp",
-    "type": "candy",
-    "comuna": "san-bernardo",
-    "index": 67,
-    "orig_size": 143186,
-    "webp_size": 60014
-  },
-  {
-    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoración-eventos-dulces-golosinas-santiago-chile-en-san-joaquin-068.webp",
-    "type": "candy",
-    "comuna": "san-joaquin",
-    "index": 68,
-    "orig_size": 185467,
-    "webp_size": 85536
-  },
-  {
-    "webp": "assets/images/webp/decoración-fiestas-baby-shower-cumpleaños-santiago-eventos-temáticos-decoración-chile-fiestas-personalizadas-en-independencia-069.webp",
-    "type": "fiesta",
-    "comuna": "independencia",
-    "index": 69,
-    "orig_size": 210913,
-    "webp_size": 68920
-  },
-  {
-    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoración-eventos-dulces-golosinas-santiago-chile-en-padre-hurtado-070.webp",
-    "type": "candy",
-    "comuna": "padre-hurtado",
-    "index": 70,
-    "orig_size": 144453,
-    "webp_size": 58760
-  },
-  {
-    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoración-eventos-dulces-golosinas-santiago-chile-en-buin-071.webp",
-    "type": "candy",
-    "comuna": "buin",
-    "index": 71,
-    "orig_size": 251132,
-    "webp_size": 62564
-  },
-  {
-    "webp": "assets/images/webp/decoración-fiestas-baby-shower-cumpleaños-santiago-eventos-temáticos-decoración-chile-fiestas-personalizadas-en-lampa-072.webp",
-    "type": "fiesta",
-    "comuna": "lampa",
-    "index": 72,
-    "orig_size": 144007,
-    "webp_size": 56206
-  },
-  {
-    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoración-eventos-dulces-golosinas-santiago-chile-en-paine-073.webp",
-    "type": "candy",
-    "comuna": "paine",
-    "index": 73,
-    "orig_size": 152150,
-    "webp_size": 36138
-  },
-  {
-    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoración-eventos-dulces-golosinas-santiago-chile-en-colina-074.webp",
-    "type": "candy",
-    "comuna": "colina",
-    "index": 74,
-    "orig_size": 162861,
-    "webp_size": 34858
-  },
-  {
-    "webp": "assets/images/webp/decoración-fiestas-baby-shower-cumpleaños-santiago-eventos-temáticos-decoración-chile-fiestas-personalizadas-en-pirque-075.webp",
-    "type": "fiesta",
-    "comuna": "pirque",
-    "index": 75,
-    "orig_size": 146786,
-    "webp_size": 39066
-  },
-  {
-    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoración-eventos-dulces-golosinas-santiago-chile-en-tiltil-076.webp",
-    "type": "candy",
-    "comuna": "tiltil",
-    "index": 76,
-    "orig_size": 191692,
-    "webp_size": 58226
-  },
-  {
-    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoración-eventos-dulces-golosinas-santiago-chile-en-melipilla-077.webp",
-    "type": "candy",
-    "comuna": "melipilla",
-    "index": 77,
-    "orig_size": 190871,
-    "webp_size": 57214
-  },
-  {
-    "webp": "assets/images/webp/decoración-fiestas-baby-shower-cumpleaños-santiago-eventos-temáticos-decoración-chile-fiestas-personalizadas-en-alhue-078.webp",
-    "type": "fiesta",
-    "comuna": "alhue",
-    "index": 78,
-    "orig_size": 275436,
-    "webp_size": 92540
-  },
-  {
-    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoración-eventos-dulces-golosinas-santiago-chile-en-santiago-079.webp",
+    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoracion-eventos-dulces-golosinas-santiago-chile-en-alhue-096.webp",
     "type": "candy",
     "comuna": "santiago",
-    "index": 79,
-    "orig_size": 150168,
-    "webp_size": 39740
+    "index": 3
   },
   {
-    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoración-eventos-dulces-golosinas-santiago-chile-en-conchali-080.webp",
-    "type": "candy",
-    "comuna": "conchali",
-    "index": 80,
-    "orig_size": 144955,
-    "webp_size": 57318
-  },
-  {
-    "webp": "assets/images/webp/decoración-fiestas-baby-shower-cumpleaños-santiago-eventos-temáticos-decoración-chile-fiestas-personalizadas-en-el-bosque-081.webp",
-    "type": "fiesta",
-    "comuna": "el-bosque",
-    "index": 81,
-    "orig_size": 90621,
-    "webp_size": 29162
-  },
-  {
-    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoración-eventos-dulces-golosinas-santiago-chile-en-la-granja-082.webp",
-    "type": "candy",
-    "comuna": "la-granja",
-    "index": 82,
-    "orig_size": 123246,
-    "webp_size": 40634
-  },
-  {
-    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoración-eventos-dulces-golosinas-santiago-chile-en-huechuraba-083.webp",
-    "type": "candy",
-    "comuna": "huechuraba",
-    "index": 83,
-    "orig_size": 145482,
-    "webp_size": 59788
-  },
-  {
-    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoración-eventos-dulces-golosinas-santiago-chile-en-cerro-navia-084.webp",
-    "type": "candy",
-    "comuna": "cerro-navia",
-    "index": 84,
-    "orig_size": 91418,
-    "webp_size": 36826
-  },
-  {
-    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoración-eventos-dulces-golosinas-santiago-chile-en-san-bernardo-085.webp",
-    "type": "candy",
-    "comuna": "san-bernardo",
-    "index": 85,
-    "orig_size": 232317,
-    "webp_size": 83506
-  },
-  {
-    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoración-eventos-dulces-golosinas-santiago-chile-en-san-joaquin-086.webp",
-    "type": "candy",
-    "comuna": "san-joaquin",
-    "index": 86,
-    "orig_size": 352597,
-    "webp_size": 117684
-  },
-  {
-    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoración-eventos-dulces-golosinas-santiago-chile-en-independencia-087.webp",
-    "type": "candy",
-    "comuna": "independencia",
-    "index": 87,
-    "orig_size": 104753,
-    "webp_size": 44186
-  },
-  {
-    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoración-eventos-dulces-golosinas-santiago-chile-en-padre-hurtado-088.webp",
-    "type": "candy",
-    "comuna": "padre-hurtado",
-    "index": 88,
-    "orig_size": 204908,
-    "webp_size": 62510
-  },
-  {
-    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoración-eventos-dulces-golosinas-santiago-chile-en-buin-089.webp",
-    "type": "candy",
-    "comuna": "buin",
-    "index": 89,
-    "orig_size": 170295,
-    "webp_size": 51204
-  },
-  {
-    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoración-eventos-dulces-golosinas-santiago-chile-en-lampa-090.webp",
-    "type": "candy",
-    "comuna": "lampa",
-    "index": 90,
-    "orig_size": 197517,
-    "webp_size": 60038
-  },
-  {
-    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoración-eventos-dulces-golosinas-santiago-chile-en-paine-091.webp",
-    "type": "candy",
-    "comuna": "paine",
-    "index": 91,
-    "orig_size": 172708,
-    "webp_size": 47496
-  },
-  {
-    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoración-eventos-dulces-golosinas-santiago-chile-en-colina-092.webp",
-    "type": "candy",
-    "comuna": "colina",
-    "index": 92,
-    "orig_size": 203613,
-    "webp_size": 59418
-  },
-  {
-    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoración-eventos-dulces-golosinas-santiago-chile-en-pirque-093.webp",
-    "type": "candy",
-    "comuna": "pirque",
-    "index": 93,
-    "orig_size": 227437,
-    "webp_size": 77968
-  },
-  {
-    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoración-eventos-dulces-golosinas-santiago-chile-en-tiltil-094.webp",
-    "type": "candy",
-    "comuna": "tiltil",
-    "index": 94,
-    "orig_size": 217431,
-    "webp_size": 73880
-  },
-  {
-    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoración-eventos-dulces-golosinas-santiago-chile-en-melipilla-095.webp",
-    "type": "candy",
-    "comuna": "melipilla",
-    "index": 95,
-    "orig_size": 180053,
-    "webp_size": 56748
-  },
-  {
-    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoración-eventos-dulces-golosinas-santiago-chile-en-alhue-096.webp",
-    "type": "candy",
-    "comuna": "alhue",
-    "index": 96,
-    "orig_size": 213609,
-    "webp_size": 70194
-  },
-  {
-    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoración-eventos-dulces-golosinas-santiago-chile-en-santiago-097.webp",
+    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoracion-eventos-dulces-golosinas-santiago-chile-en-buin-035.webp",
     "type": "candy",
     "comuna": "santiago",
-    "index": 97,
-    "orig_size": 224566,
-    "webp_size": 66282
+    "index": 4
   },
   {
-    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoración-eventos-dulces-golosinas-santiago-chile-en-conchali-098.webp",
+    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoracion-eventos-dulces-golosinas-santiago-chile-en-buin-053.webp",
     "type": "candy",
-    "comuna": "conchali",
-    "index": 98,
-    "orig_size": 150683,
-    "webp_size": 66304
+    "comuna": "santiago",
+    "index": 5
   },
   {
-    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoración-eventos-dulces-golosinas-santiago-chile-en-el-bosque-099.webp",
+    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoracion-eventos-dulces-golosinas-santiago-chile-en-buin-071.webp",
     "type": "candy",
-    "comuna": "el-bosque",
-    "index": 99,
-    "orig_size": 120782,
-    "webp_size": 54982
+    "comuna": "santiago",
+    "index": 6
   },
   {
-    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoración-eventos-dulces-golosinas-santiago-chile-en-la-granja-100.webp",
+    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoracion-eventos-dulces-golosinas-santiago-chile-en-buin-089.webp",
     "type": "candy",
-    "comuna": "la-granja",
-    "index": 100,
-    "orig_size": 72525,
-    "webp_size": 29206
+    "comuna": "santiago",
+    "index": 7
   },
   {
-    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoración-eventos-dulces-golosinas-santiago-chile-en-huechuraba-101.webp",
+    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoracion-eventos-dulces-golosinas-santiago-chile-en-buin-107.webp",
     "type": "candy",
-    "comuna": "huechuraba",
-    "index": 101,
-    "orig_size": 121946,
-    "webp_size": 55148
+    "comuna": "santiago",
+    "index": 8
   },
   {
-    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoración-eventos-dulces-golosinas-santiago-chile-en-cerro-navia-102.webp",
+    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoracion-eventos-dulces-golosinas-santiago-chile-en-cerro-navia-012.webp",
     "type": "candy",
-    "comuna": "cerro-navia",
-    "index": 102,
-    "orig_size": 44259,
-    "webp_size": 46470
+    "comuna": "santiago",
+    "index": 9
   },
   {
-    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoración-eventos-dulces-golosinas-santiago-chile-en-san-bernardo-103.webp",
+    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoracion-eventos-dulces-golosinas-santiago-chile-en-cerro-navia-084.webp",
     "type": "candy",
-    "comuna": "san-bernardo",
-    "index": 103,
-    "orig_size": 97961,
-    "webp_size": 38556
+    "comuna": "santiago",
+    "index": 10
   },
   {
-    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoración-eventos-dulces-golosinas-santiago-chile-en-san-joaquin-104.webp",
+    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoracion-eventos-dulces-golosinas-santiago-chile-en-cerro-navia-102.webp",
     "type": "candy",
-    "comuna": "san-joaquin",
-    "index": 104,
-    "orig_size": 105754,
-    "webp_size": 30212
+    "comuna": "santiago",
+    "index": 11
   },
   {
-    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoración-eventos-dulces-golosinas-santiago-chile-en-independencia-105.webp",
+    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoracion-eventos-dulces-golosinas-santiago-chile-en-colina-002.webp",
     "type": "candy",
-    "comuna": "independencia",
-    "index": 105,
-    "orig_size": 168202,
-    "webp_size": 52130
+    "comuna": "santiago",
+    "index": 12
   },
   {
-    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoración-eventos-dulces-golosinas-santiago-chile-en-padre-hurtado-106.webp",
+    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoracion-eventos-dulces-golosinas-santiago-chile-en-colina-020.webp",
     "type": "candy",
-    "comuna": "padre-hurtado",
-    "index": 106,
-    "orig_size": 141857,
-    "webp_size": 42606
+    "comuna": "santiago",
+    "index": 13
   },
   {
-    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoración-eventos-dulces-golosinas-santiago-chile-en-buin-107.webp",
+    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoracion-eventos-dulces-golosinas-santiago-chile-en-colina-038.webp",
     "type": "candy",
-    "comuna": "buin",
-    "index": 107,
-    "orig_size": 106015,
-    "webp_size": 29114
+    "comuna": "santiago",
+    "index": 14
   },
   {
-    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoración-eventos-dulces-golosinas-santiago-chile-en-lampa-108.webp",
+    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoracion-eventos-dulces-golosinas-santiago-chile-en-colina-056.webp",
     "type": "candy",
-    "comuna": "lampa",
-    "index": 108,
-    "orig_size": 284422,
-    "webp_size": 95394
+    "comuna": "santiago",
+    "index": 15
   },
   {
-    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoración-eventos-dulces-golosinas-santiago-chile-en-paine-109.webp",
+    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoracion-eventos-dulces-golosinas-santiago-chile-en-colina-074.webp",
     "type": "candy",
-    "comuna": "paine",
-    "index": 109,
-    "orig_size": 245893,
-    "webp_size": 82956
+    "comuna": "santiago",
+    "index": 16
   },
   {
-    "webp": "assets/images/webp/decoración-fiestas-baby-shower-cumpleaños-santiago-eventos-temáticos-decoración-chile-fiestas-personalizadas-en-colina-110.webp",
-    "type": "fiesta",
-    "comuna": "colina",
-    "index": 110,
-    "orig_size": 93327,
-    "webp_size": 40894
+    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoracion-eventos-dulces-golosinas-santiago-chile-en-colina-092.webp",
+    "type": "candy",
+    "comuna": "santiago",
+    "index": 17
   },
   {
-    "webp": "assets/images/webp/decoración-fiestas-baby-shower-cumpleaños-santiago-eventos-temáticos-decoración-chile-fiestas-personalizadas-en-pirque-111.webp",
-    "type": "fiesta",
-    "comuna": "pirque",
-    "index": 111,
-    "orig_size": 56714,
-    "webp_size": 24314
+    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoracion-eventos-dulces-golosinas-santiago-chile-en-conchali-008.webp",
+    "type": "candy",
+    "comuna": "santiago",
+    "index": 18
   },
   {
-    "webp": "assets/images/webp/decoración-fiestas-baby-shower-cumpleaños-santiago-eventos-temáticos-decoración-chile-fiestas-personalizadas-en-tiltil-112.webp",
-    "type": "fiesta",
-    "comuna": "tiltil",
-    "index": 112,
-    "orig_size": 52126,
-    "webp_size": 21924
+    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoracion-eventos-dulces-golosinas-santiago-chile-en-conchali-026.webp",
+    "type": "candy",
+    "comuna": "santiago",
+    "index": 19
   },
   {
-    "webp": "assets/images/webp/decoración-fiestas-baby-shower-cumpleaños-santiago-eventos-temáticos-decoración-chile-fiestas-personalizadas-en-melipilla-113.webp",
-    "type": "fiesta",
-    "comuna": "melipilla",
-    "index": 113,
-    "orig_size": 47653,
-    "webp_size": 18640
+    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoracion-eventos-dulces-golosinas-santiago-chile-en-conchali-044.webp",
+    "type": "candy",
+    "comuna": "santiago",
+    "index": 20
   },
   {
-    "webp": "assets/images/webp/decoración-fiestas-baby-shower-cumpleaños-santiago-eventos-temáticos-decoración-chile-fiestas-personalizadas-en-alhue-114.webp",
-    "type": "fiesta",
-    "comuna": "alhue",
-    "index": 114,
-    "orig_size": 84680,
-    "webp_size": 33248
+    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoracion-eventos-dulces-golosinas-santiago-chile-en-conchali-062.webp",
+    "type": "candy",
+    "comuna": "santiago",
+    "index": 21
   },
   {
-    "webp": "assets/images/webp/decoración-fiestas-baby-shower-cumpleaños-santiago-eventos-temáticos-decoración-chile-fiestas-personalizadas-en-santiago-115.webp",
+    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoracion-eventos-dulces-golosinas-santiago-chile-en-conchali-080.webp",
+    "type": "candy",
+    "comuna": "santiago",
+    "index": 22
+  },
+  {
+    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoracion-eventos-dulces-golosinas-santiago-chile-en-conchali-098.webp",
+    "type": "candy",
+    "comuna": "santiago",
+    "index": 23
+  },
+  {
+    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoracion-eventos-dulces-golosinas-santiago-chile-en-el-bosque-099.webp",
+    "type": "candy",
+    "comuna": "santiago",
+    "index": 24
+  },
+  {
+    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoracion-eventos-dulces-golosinas-santiago-chile-en-huechuraba-029.webp",
+    "type": "candy",
+    "comuna": "santiago",
+    "index": 25
+  },
+  {
+    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoracion-eventos-dulces-golosinas-santiago-chile-en-huechuraba-047.webp",
+    "type": "candy",
+    "comuna": "santiago",
+    "index": 26
+  },
+  {
+    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoracion-eventos-dulces-golosinas-santiago-chile-en-huechuraba-065.webp",
+    "type": "candy",
+    "comuna": "santiago",
+    "index": 27
+  },
+  {
+    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoracion-eventos-dulces-golosinas-santiago-chile-en-huechuraba-083.webp",
+    "type": "candy",
+    "comuna": "santiago",
+    "index": 28
+  },
+  {
+    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoracion-eventos-dulces-golosinas-santiago-chile-en-huechuraba-101.webp",
+    "type": "candy",
+    "comuna": "santiago",
+    "index": 29
+  },
+  {
+    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoracion-eventos-dulces-golosinas-santiago-chile-en-independencia-087.webp",
+    "type": "candy",
+    "comuna": "santiago",
+    "index": 30
+  },
+  {
+    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoracion-eventos-dulces-golosinas-santiago-chile-en-independencia-105.webp",
+    "type": "candy",
+    "comuna": "santiago",
+    "index": 31
+  },
+  {
+    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoracion-eventos-dulces-golosinas-santiago-chile-en-la-granja-010.webp",
+    "type": "candy",
+    "comuna": "santiago",
+    "index": 32
+  },
+  {
+    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoracion-eventos-dulces-golosinas-santiago-chile-en-la-granja-028.webp",
+    "type": "candy",
+    "comuna": "santiago",
+    "index": 33
+  },
+  {
+    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoracion-eventos-dulces-golosinas-santiago-chile-en-la-granja-046.webp",
+    "type": "candy",
+    "comuna": "santiago",
+    "index": 34
+  },
+  {
+    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoracion-eventos-dulces-golosinas-santiago-chile-en-la-granja-064.webp",
+    "type": "candy",
+    "comuna": "santiago",
+    "index": 35
+  },
+  {
+    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoracion-eventos-dulces-golosinas-santiago-chile-en-la-granja-082.webp",
+    "type": "candy",
+    "comuna": "santiago",
+    "index": 36
+  },
+  {
+    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoracion-eventos-dulces-golosinas-santiago-chile-en-la-granja-100.webp",
+    "type": "candy",
+    "comuna": "santiago",
+    "index": 37
+  },
+  {
+    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoracion-eventos-dulces-golosinas-santiago-chile-en-lampa-018.webp",
+    "type": "candy",
+    "comuna": "santiago",
+    "index": 38
+  },
+  {
+    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoracion-eventos-dulces-golosinas-santiago-chile-en-lampa-090.webp",
+    "type": "candy",
+    "comuna": "santiago",
+    "index": 39
+  },
+  {
+    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoracion-eventos-dulces-golosinas-santiago-chile-en-lampa-108.webp",
+    "type": "candy",
+    "comuna": "santiago",
+    "index": 40
+  },
+  {
+    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoracion-eventos-dulces-golosinas-santiago-chile-en-melipilla-041.webp",
+    "type": "candy",
+    "comuna": "santiago",
+    "index": 41
+  },
+  {
+    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoracion-eventos-dulces-golosinas-santiago-chile-en-melipilla-059.webp",
+    "type": "candy",
+    "comuna": "santiago",
+    "index": 42
+  },
+  {
+    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoracion-eventos-dulces-golosinas-santiago-chile-en-melipilla-077.webp",
+    "type": "candy",
+    "comuna": "santiago",
+    "index": 43
+  },
+  {
+    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoracion-eventos-dulces-golosinas-santiago-chile-en-melipilla-095.webp",
+    "type": "candy",
+    "comuna": "santiago",
+    "index": 44
+  },
+  {
+    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoracion-eventos-dulces-golosinas-santiago-chile-en-padre-hurtado-016.webp",
+    "type": "candy",
+    "comuna": "santiago",
+    "index": 45
+  },
+  {
+    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoracion-eventos-dulces-golosinas-santiago-chile-en-padre-hurtado-034.webp",
+    "type": "candy",
+    "comuna": "santiago",
+    "index": 46
+  },
+  {
+    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoracion-eventos-dulces-golosinas-santiago-chile-en-padre-hurtado-052.webp",
+    "type": "candy",
+    "comuna": "santiago",
+    "index": 47
+  },
+  {
+    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoracion-eventos-dulces-golosinas-santiago-chile-en-padre-hurtado-070.webp",
+    "type": "candy",
+    "comuna": "santiago",
+    "index": 48
+  },
+  {
+    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoracion-eventos-dulces-golosinas-santiago-chile-en-padre-hurtado-088.webp",
+    "type": "candy",
+    "comuna": "santiago",
+    "index": 49
+  },
+  {
+    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoracion-eventos-dulces-golosinas-santiago-chile-en-padre-hurtado-106.webp",
+    "type": "candy",
+    "comuna": "santiago",
+    "index": 50
+  },
+  {
+    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoracion-eventos-dulces-golosinas-santiago-chile-en-paine-037.webp",
+    "type": "candy",
+    "comuna": "santiago",
+    "index": 51
+  },
+  {
+    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoracion-eventos-dulces-golosinas-santiago-chile-en-paine-055.webp",
+    "type": "candy",
+    "comuna": "santiago",
+    "index": 52
+  },
+  {
+    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoracion-eventos-dulces-golosinas-santiago-chile-en-paine-073.webp",
+    "type": "candy",
+    "comuna": "santiago",
+    "index": 53
+  },
+  {
+    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoracion-eventos-dulces-golosinas-santiago-chile-en-paine-091.webp",
+    "type": "candy",
+    "comuna": "santiago",
+    "index": 54
+  },
+  {
+    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoracion-eventos-dulces-golosinas-santiago-chile-en-paine-109.webp",
+    "type": "candy",
+    "comuna": "santiago",
+    "index": 55
+  },
+  {
+    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoracion-eventos-dulces-golosinas-santiago-chile-en-pirque-093.webp",
+    "type": "candy",
+    "comuna": "santiago",
+    "index": 56
+  },
+  {
+    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoracion-eventos-dulces-golosinas-santiago-chile-en-san-bernardo-031.webp",
+    "type": "candy",
+    "comuna": "santiago",
+    "index": 57
+  },
+  {
+    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoracion-eventos-dulces-golosinas-santiago-chile-en-san-bernardo-049.webp",
+    "type": "candy",
+    "comuna": "santiago",
+    "index": 58
+  },
+  {
+    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoracion-eventos-dulces-golosinas-santiago-chile-en-san-bernardo-067.webp",
+    "type": "candy",
+    "comuna": "santiago",
+    "index": 59
+  },
+  {
+    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoracion-eventos-dulces-golosinas-santiago-chile-en-san-bernardo-085.webp",
+    "type": "candy",
+    "comuna": "santiago",
+    "index": 60
+  },
+  {
+    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoracion-eventos-dulces-golosinas-santiago-chile-en-san-bernardo-103.webp",
+    "type": "candy",
+    "comuna": "santiago",
+    "index": 61
+  },
+  {
+    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoracion-eventos-dulces-golosinas-santiago-chile-en-san-joaquin-014.webp",
+    "type": "candy",
+    "comuna": "santiago",
+    "index": 62
+  },
+  {
+    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoracion-eventos-dulces-golosinas-santiago-chile-en-san-joaquin-032.webp",
+    "type": "candy",
+    "comuna": "santiago",
+    "index": 63
+  },
+  {
+    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoracion-eventos-dulces-golosinas-santiago-chile-en-san-joaquin-050.webp",
+    "type": "candy",
+    "comuna": "santiago",
+    "index": 64
+  },
+  {
+    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoracion-eventos-dulces-golosinas-santiago-chile-en-san-joaquin-068.webp",
+    "type": "candy",
+    "comuna": "santiago",
+    "index": 65
+  },
+  {
+    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoracion-eventos-dulces-golosinas-santiago-chile-en-san-joaquin-086.webp",
+    "type": "candy",
+    "comuna": "santiago",
+    "index": 66
+  },
+  {
+    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoracion-eventos-dulces-golosinas-santiago-chile-en-san-joaquin-104.webp",
+    "type": "candy",
+    "comuna": "santiago",
+    "index": 67
+  },
+  {
+    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoracion-eventos-dulces-golosinas-santiago-chile-en-santiago-043.webp",
+    "type": "candy",
+    "comuna": "santiago",
+    "index": 68
+  },
+  {
+    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoracion-eventos-dulces-golosinas-santiago-chile-en-santiago-061.webp",
+    "type": "candy",
+    "comuna": "santiago",
+    "index": 69
+  },
+  {
+    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoracion-eventos-dulces-golosinas-santiago-chile-en-santiago-079.webp",
+    "type": "candy",
+    "comuna": "santiago",
+    "index": 70
+  },
+  {
+    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoracion-eventos-dulces-golosinas-santiago-chile-en-santiago-097.webp",
+    "type": "candy",
+    "comuna": "santiago",
+    "index": 71
+  },
+  {
+    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoracion-eventos-dulces-golosinas-santiago-chile-en-tiltil-004.webp",
+    "type": "candy",
+    "comuna": "santiago",
+    "index": 72
+  },
+  {
+    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoracion-eventos-dulces-golosinas-santiago-chile-en-tiltil-022.webp",
+    "type": "candy",
+    "comuna": "santiago",
+    "index": 73
+  },
+  {
+    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoracion-eventos-dulces-golosinas-santiago-chile-en-tiltil-040.webp",
+    "type": "candy",
+    "comuna": "santiago",
+    "index": 74
+  },
+  {
+    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoracion-eventos-dulces-golosinas-santiago-chile-en-tiltil-058.webp",
+    "type": "candy",
+    "comuna": "santiago",
+    "index": 75
+  },
+  {
+    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoracion-eventos-dulces-golosinas-santiago-chile-en-tiltil-076.webp",
+    "type": "candy",
+    "comuna": "santiago",
+    "index": 76
+  },
+  {
+    "webp": "assets/images/webp/candy-bar-arriendo-candy-bar-fiestas-santiago-decoracion-eventos-dulces-golosinas-santiago-chile-en-tiltil-094.webp",
+    "type": "candy",
+    "comuna": "santiago",
+    "index": 77
+  },
+  {
+    "webp": "assets/images/webp/decoracion-fiestas-baby-shower-cumpleanos-santiago-eventos-tematicos-decoracion-chile-fiestas-personalizadas-en-alhue-042.webp",
     "type": "fiesta",
     "comuna": "santiago",
-    "index": 115,
-    "orig_size": 44029,
-    "webp_size": 15072
+    "index": 78
   },
   {
-    "webp": "assets/images/webp/decoración-fiestas-baby-shower-cumpleaños-santiago-eventos-temáticos-decoración-chile-fiestas-personalizadas-en-conchali-116.webp",
+    "webp": "assets/images/webp/decoracion-fiestas-baby-shower-cumpleanos-santiago-eventos-tematicos-decoracion-chile-fiestas-personalizadas-en-alhue-060.webp",
     "type": "fiesta",
-    "comuna": "conchali",
-    "index": 116,
-    "orig_size": 111257,
-    "webp_size": 50254
+    "comuna": "santiago",
+    "index": 79
   },
   {
-    "webp": "assets/images/webp/decoración-fiestas-baby-shower-cumpleaños-santiago-eventos-temáticos-decoración-chile-fiestas-personalizadas-en-el-bosque-117.webp",
+    "webp": "assets/images/webp/decoracion-fiestas-baby-shower-cumpleanos-santiago-eventos-tematicos-decoracion-chile-fiestas-personalizadas-en-alhue-078.webp",
     "type": "fiesta",
-    "comuna": "el-bosque",
-    "index": 117,
-    "orig_size": 91776,
-    "webp_size": 43482
+    "comuna": "santiago",
+    "index": 80
   },
   {
-    "webp": "assets/images/webp/decoración-fiestas-baby-shower-cumpleaños-santiago-eventos-temáticos-decoración-chile-fiestas-personalizadas-en-la-granja-118.webp",
+    "webp": "assets/images/webp/decoracion-fiestas-baby-shower-cumpleanos-santiago-eventos-tematicos-decoracion-chile-fiestas-personalizadas-en-alhue-114.webp",
     "type": "fiesta",
-    "comuna": "la-granja",
-    "index": 118,
-    "orig_size": 54358,
-    "webp_size": 25084
+    "comuna": "santiago",
+    "index": 81
   },
   {
-    "webp": "assets/images/webp/decoración-fiestas-baby-shower-cumpleaños-santiago-eventos-temáticos-decoración-chile-fiestas-personalizadas-en-huechuraba-119.webp",
+    "webp": "assets/images/webp/decoracion-fiestas-baby-shower-cumpleanos-santiago-eventos-tematicos-decoracion-chile-fiestas-personalizadas-en-buin-017.webp",
     "type": "fiesta",
-    "comuna": "huechuraba",
-    "index": 119,
-    "orig_size": 50446,
-    "webp_size": 22846
+    "comuna": "santiago",
+    "index": 82
   },
   {
-    "webp": "assets/images/webp/decoración-fiestas-baby-shower-cumpleaños-santiago-eventos-temáticos-decoración-chile-fiestas-personalizadas-en-cerro-navia-120.webp",
+    "webp": "assets/images/webp/decoracion-fiestas-baby-shower-cumpleanos-santiago-eventos-tematicos-decoracion-chile-fiestas-personalizadas-en-cerro-navia-030.webp",
     "type": "fiesta",
-    "comuna": "cerro-navia",
-    "index": 120,
-    "orig_size": 54456,
-    "webp_size": 24622
+    "comuna": "santiago",
+    "index": 83
   },
   {
-    "webp": "assets/images/webp/decoración-fiestas-baby-shower-cumpleaños-santiago-eventos-temáticos-decoración-chile-fiestas-personalizadas-en-san-bernardo-121.webp",
+    "webp": "assets/images/webp/decoracion-fiestas-baby-shower-cumpleanos-santiago-eventos-tematicos-decoracion-chile-fiestas-personalizadas-en-cerro-navia-048.webp",
     "type": "fiesta",
-    "comuna": "san-bernardo",
-    "index": 121,
-    "orig_size": 60701,
-    "webp_size": 26752
+    "comuna": "santiago",
+    "index": 84
   },
   {
-    "webp": "assets/images/webp/decoración-fiestas-baby-shower-cumpleaños-santiago-eventos-temáticos-decoración-chile-fiestas-personalizadas-en-san-joaquin-122.webp",
+    "webp": "assets/images/webp/decoracion-fiestas-baby-shower-cumpleanos-santiago-eventos-tematicos-decoracion-chile-fiestas-personalizadas-en-cerro-navia-066.webp",
     "type": "fiesta",
-    "comuna": "san-joaquin",
-    "index": 122,
-    "orig_size": 66415,
-    "webp_size": 28530
+    "comuna": "santiago",
+    "index": 85
   },
   {
-    "webp": "assets/images/webp/polerones-personalizados-estampados-dtf-santiago-chile-diseños-exclusivos-vinilo-textil-sublimación-en-independencia-123.webp",
-    "type": "poleron",
-    "comuna": "independencia",
-    "index": 123,
-    "orig_size": 397096,
-    "webp_size": 35986
+    "webp": "assets/images/webp/decoracion-fiestas-baby-shower-cumpleanos-santiago-eventos-tematicos-decoracion-chile-fiestas-personalizadas-en-cerro-navia-120.webp",
+    "type": "fiesta",
+    "comuna": "santiago",
+    "index": 86
   },
   {
-    "webp": "assets/images/webp/polerones-personalizados-estampados-dtf-santiago-chile-diseños-exclusivos-vinilo-textil-sublimación-en-padre-hurtado-124.webp",
-    "type": "poleron",
-    "comuna": "padre-hurtado",
-    "index": 124,
-    "orig_size": 251999,
-    "webp_size": 16098
+    "webp": "assets/images/webp/decoracion-fiestas-baby-shower-cumpleanos-santiago-eventos-tematicos-decoracion-chile-fiestas-personalizadas-en-colina-110.webp",
+    "type": "fiesta",
+    "comuna": "santiago",
+    "index": 87
   },
   {
-    "webp": "assets/images/webp/polerones-personalizados-estampados-dtf-santiago-chile-diseños-exclusivos-vinilo-textil-sublimación-en-buin-125.webp",
-    "type": "poleron",
-    "comuna": "buin",
-    "index": 125,
-    "orig_size": 281428,
-    "webp_size": 20226
+    "webp": "assets/images/webp/decoracion-fiestas-baby-shower-cumpleanos-santiago-eventos-tematicos-decoracion-chile-fiestas-personalizadas-en-conchali-116.webp",
+    "type": "fiesta",
+    "comuna": "santiago",
+    "index": 88
   },
   {
-    "webp": "assets/images/webp/polerones-personalizados-estampados-dtf-santiago-chile-diseños-exclusivos-vinilo-textil-sublimación-en-lampa-126.webp",
-    "type": "poleron",
-    "comuna": "lampa",
-    "index": 126,
-    "orig_size": 343774,
-    "webp_size": 30966
+    "webp": "assets/images/webp/decoracion-fiestas-baby-shower-cumpleanos-santiago-eventos-tematicos-decoracion-chile-fiestas-personalizadas-en-el-bosque-009.webp",
+    "type": "fiesta",
+    "comuna": "santiago",
+    "index": 89
   },
   {
-    "webp": "assets/images/webp/polerones-personalizados-estampados-dtf-santiago-chile-diseños-exclusivos-vinilo-textil-sublimación-en-paine-127.webp",
-    "type": "poleron",
-    "comuna": "paine",
-    "index": 127,
-    "orig_size": 268370,
-    "webp_size": 17602
+    "webp": "assets/images/webp/decoracion-fiestas-baby-shower-cumpleanos-santiago-eventos-tematicos-decoracion-chile-fiestas-personalizadas-en-el-bosque-027.webp",
+    "type": "fiesta",
+    "comuna": "santiago",
+    "index": 90
   },
   {
-    "webp": "assets/images/webp/polerones-personalizados-estampados-dtf-santiago-chile-diseños-exclusivos-vinilo-textil-sublimación-en-colina-128.webp",
-    "type": "poleron",
-    "comuna": "colina",
-    "index": 128,
-    "orig_size": 328471,
-    "webp_size": 22744
+    "webp": "assets/images/webp/decoracion-fiestas-baby-shower-cumpleanos-santiago-eventos-tematicos-decoracion-chile-fiestas-personalizadas-en-el-bosque-045.webp",
+    "type": "fiesta",
+    "comuna": "santiago",
+    "index": 91
   },
   {
-    "webp": "assets/images/webp/polerones-personalizados-estampados-dtf-santiago-chile-diseños-exclusivos-vinilo-textil-sublimación-en-pirque-129.webp",
-    "type": "poleron",
-    "comuna": "pirque",
-    "index": 129,
-    "orig_size": 283264,
-    "webp_size": 21194
+    "webp": "assets/images/webp/decoracion-fiestas-baby-shower-cumpleanos-santiago-eventos-tematicos-decoracion-chile-fiestas-personalizadas-en-el-bosque-063.webp",
+    "type": "fiesta",
+    "comuna": "santiago",
+    "index": 92
   },
   {
-    "webp": "assets/images/webp/polerones-personalizados-estampados-dtf-santiago-chile-diseños-exclusivos-vinilo-textil-sublimación-en-tiltil-130.webp",
-    "type": "poleron",
-    "comuna": "tiltil",
-    "index": 130,
-    "orig_size": 361713,
-    "webp_size": 28250
+    "webp": "assets/images/webp/decoracion-fiestas-baby-shower-cumpleanos-santiago-eventos-tematicos-decoracion-chile-fiestas-personalizadas-en-el-bosque-081.webp",
+    "type": "fiesta",
+    "comuna": "santiago",
+    "index": 93
   },
   {
-    "webp": "assets/images/webp/polerones-personalizados-estampados-dtf-santiago-chile-diseños-exclusivos-vinilo-textil-sublimación-en-melipilla-131.webp",
-    "type": "poleron",
-    "comuna": "melipilla",
-    "index": 131,
-    "orig_size": 350350,
-    "webp_size": 21308
+    "webp": "assets/images/webp/decoracion-fiestas-baby-shower-cumpleanos-santiago-eventos-tematicos-decoracion-chile-fiestas-personalizadas-en-el-bosque-117.webp",
+    "type": "fiesta",
+    "comuna": "santiago",
+    "index": 94
   },
   {
-    "webp": "assets/images/webp/polerones-personalizados-estampados-dtf-santiago-chile-diseños-exclusivos-vinilo-textil-sublimación-en-alhue-132.webp",
-    "type": "poleron",
-    "comuna": "alhue",
-    "index": 132,
-    "orig_size": 409793,
-    "webp_size": 29096
+    "webp": "assets/images/webp/decoracion-fiestas-baby-shower-cumpleanos-santiago-eventos-tematicos-decoracion-chile-fiestas-personalizadas-en-huechuraba-011.webp",
+    "type": "fiesta",
+    "comuna": "santiago",
+    "index": 95
   },
   {
-    "webp": "assets/images/webp/polerones-personalizados-estampados-dtf-santiago-chile-diseños-exclusivos-vinilo-textil-sublimación-en-santiago-133.webp",
+    "webp": "assets/images/webp/decoracion-fiestas-baby-shower-cumpleanos-santiago-eventos-tematicos-decoracion-chile-fiestas-personalizadas-en-huechuraba-119.webp",
+    "type": "fiesta",
+    "comuna": "santiago",
+    "index": 96
+  },
+  {
+    "webp": "assets/images/webp/decoracion-fiestas-baby-shower-cumpleanos-santiago-eventos-tematicos-decoracion-chile-fiestas-personalizadas-en-independencia-015.webp",
+    "type": "fiesta",
+    "comuna": "santiago",
+    "index": 97
+  },
+  {
+    "webp": "assets/images/webp/decoracion-fiestas-baby-shower-cumpleanos-santiago-eventos-tematicos-decoracion-chile-fiestas-personalizadas-en-independencia-033.webp",
+    "type": "fiesta",
+    "comuna": "santiago",
+    "index": 98
+  },
+  {
+    "webp": "assets/images/webp/decoracion-fiestas-baby-shower-cumpleanos-santiago-eventos-tematicos-decoracion-chile-fiestas-personalizadas-en-independencia-051.webp",
+    "type": "fiesta",
+    "comuna": "santiago",
+    "index": 99
+  },
+  {
+    "webp": "assets/images/webp/decoracion-fiestas-baby-shower-cumpleanos-santiago-eventos-tematicos-decoracion-chile-fiestas-personalizadas-en-independencia-069.webp",
+    "type": "fiesta",
+    "comuna": "santiago",
+    "index": 100
+  },
+  {
+    "webp": "assets/images/webp/decoracion-fiestas-baby-shower-cumpleanos-santiago-eventos-tematicos-decoracion-chile-fiestas-personalizadas-en-la-granja-118.webp",
+    "type": "fiesta",
+    "comuna": "santiago",
+    "index": 101
+  },
+  {
+    "webp": "assets/images/webp/decoracion-fiestas-baby-shower-cumpleanos-santiago-eventos-tematicos-decoracion-chile-fiestas-personalizadas-en-lampa-036.webp",
+    "type": "fiesta",
+    "comuna": "santiago",
+    "index": 102
+  },
+  {
+    "webp": "assets/images/webp/decoracion-fiestas-baby-shower-cumpleanos-santiago-eventos-tematicos-decoracion-chile-fiestas-personalizadas-en-lampa-054.webp",
+    "type": "fiesta",
+    "comuna": "santiago",
+    "index": 103
+  },
+  {
+    "webp": "assets/images/webp/decoracion-fiestas-baby-shower-cumpleanos-santiago-eventos-tematicos-decoracion-chile-fiestas-personalizadas-en-lampa-072.webp",
+    "type": "fiesta",
+    "comuna": "santiago",
+    "index": 104
+  },
+  {
+    "webp": "assets/images/webp/decoracion-fiestas-baby-shower-cumpleanos-santiago-eventos-tematicos-decoracion-chile-fiestas-personalizadas-en-melipilla-005.webp",
+    "type": "fiesta",
+    "comuna": "santiago",
+    "index": 105
+  },
+  {
+    "webp": "assets/images/webp/decoracion-fiestas-baby-shower-cumpleanos-santiago-eventos-tematicos-decoracion-chile-fiestas-personalizadas-en-melipilla-023.webp",
+    "type": "fiesta",
+    "comuna": "santiago",
+    "index": 106
+  },
+  {
+    "webp": "assets/images/webp/decoracion-fiestas-baby-shower-cumpleanos-santiago-eventos-tematicos-decoracion-chile-fiestas-personalizadas-en-melipilla-113.webp",
+    "type": "fiesta",
+    "comuna": "santiago",
+    "index": 107
+  },
+  {
+    "webp": "assets/images/webp/decoracion-fiestas-baby-shower-cumpleanos-santiago-eventos-tematicos-decoracion-chile-fiestas-personalizadas-en-paine-001.webp",
+    "type": "fiesta",
+    "comuna": "santiago",
+    "index": 108
+  },
+  {
+    "webp": "assets/images/webp/decoracion-fiestas-baby-shower-cumpleanos-santiago-eventos-tematicos-decoracion-chile-fiestas-personalizadas-en-paine-019.webp",
+    "type": "fiesta",
+    "comuna": "santiago",
+    "index": 109
+  },
+  {
+    "webp": "assets/images/webp/decoracion-fiestas-baby-shower-cumpleanos-santiago-eventos-tematicos-decoracion-chile-fiestas-personalizadas-en-pirque-003.webp",
+    "type": "fiesta",
+    "comuna": "santiago",
+    "index": 110
+  },
+  {
+    "webp": "assets/images/webp/decoracion-fiestas-baby-shower-cumpleanos-santiago-eventos-tematicos-decoracion-chile-fiestas-personalizadas-en-pirque-021.webp",
+    "type": "fiesta",
+    "comuna": "santiago",
+    "index": 111
+  },
+  {
+    "webp": "assets/images/webp/decoracion-fiestas-baby-shower-cumpleanos-santiago-eventos-tematicos-decoracion-chile-fiestas-personalizadas-en-pirque-039.webp",
+    "type": "fiesta",
+    "comuna": "santiago",
+    "index": 112
+  },
+  {
+    "webp": "assets/images/webp/decoracion-fiestas-baby-shower-cumpleanos-santiago-eventos-tematicos-decoracion-chile-fiestas-personalizadas-en-pirque-057.webp",
+    "type": "fiesta",
+    "comuna": "santiago",
+    "index": 113
+  },
+  {
+    "webp": "assets/images/webp/decoracion-fiestas-baby-shower-cumpleanos-santiago-eventos-tematicos-decoracion-chile-fiestas-personalizadas-en-pirque-075.webp",
+    "type": "fiesta",
+    "comuna": "santiago",
+    "index": 114
+  },
+  {
+    "webp": "assets/images/webp/decoracion-fiestas-baby-shower-cumpleanos-santiago-eventos-tematicos-decoracion-chile-fiestas-personalizadas-en-pirque-111.webp",
+    "type": "fiesta",
+    "comuna": "santiago",
+    "index": 115
+  },
+  {
+    "webp": "assets/images/webp/decoracion-fiestas-baby-shower-cumpleanos-santiago-eventos-tematicos-decoracion-chile-fiestas-personalizadas-en-san-bernardo-013.webp",
+    "type": "fiesta",
+    "comuna": "santiago",
+    "index": 116
+  },
+  {
+    "webp": "assets/images/webp/decoracion-fiestas-baby-shower-cumpleanos-santiago-eventos-tematicos-decoracion-chile-fiestas-personalizadas-en-san-bernardo-121.webp",
+    "type": "fiesta",
+    "comuna": "santiago",
+    "index": 117
+  },
+  {
+    "webp": "assets/images/webp/decoracion-fiestas-baby-shower-cumpleanos-santiago-eventos-tematicos-decoracion-chile-fiestas-personalizadas-en-san-joaquin-122.webp",
+    "type": "fiesta",
+    "comuna": "santiago",
+    "index": 118
+  },
+  {
+    "webp": "assets/images/webp/decoracion-fiestas-baby-shower-cumpleanos-santiago-eventos-tematicos-decoracion-chile-fiestas-personalizadas-en-santiago-007.webp",
+    "type": "fiesta",
+    "comuna": "santiago",
+    "index": 119
+  },
+  {
+    "webp": "assets/images/webp/decoracion-fiestas-baby-shower-cumpleanos-santiago-eventos-tematicos-decoracion-chile-fiestas-personalizadas-en-santiago-025.webp",
+    "type": "fiesta",
+    "comuna": "santiago",
+    "index": 120
+  },
+  {
+    "webp": "assets/images/webp/decoracion-fiestas-baby-shower-cumpleanos-santiago-eventos-tematicos-decoracion-chile-fiestas-personalizadas-en-santiago-115.webp",
+    "type": "fiesta",
+    "comuna": "santiago",
+    "index": 121
+  },
+  {
+    "webp": "assets/images/webp/decoracion-fiestas-baby-shower-cumpleanos-santiago-eventos-tematicos-decoracion-chile-fiestas-personalizadas-en-tiltil-112.webp",
+    "type": "fiesta",
+    "comuna": "santiago",
+    "index": 122
+  },
+  {
+    "webp": "assets/images/webp/polerones-personalizados-estampados-dtf-santiago-chile-disenos-exclusivos-vinilo-textil-sublimacion-en-alhue-132.webp",
     "type": "poleron",
     "comuna": "santiago",
-    "index": 133,
-    "orig_size": 1533180,
-    "webp_size": 51446
+    "index": 123
   },
   {
-    "webp": "assets/images/webp/polerones-personalizados-estampados-dtf-santiago-chile-diseños-exclusivos-vinilo-textil-sublimación-en-conchali-134.webp",
-    "type": "poleron",
-    "comuna": "conchali",
-    "index": 134,
-    "orig_size": 338793,
-    "webp_size": 29130
-  },
-  {
-    "webp": "assets/images/webp/polerones-personalizados-estampados-dtf-santiago-chile-diseños-exclusivos-vinilo-textil-sublimación-en-el-bosque-135.webp",
-    "type": "poleron",
-    "comuna": "el-bosque",
-    "index": 135,
-    "orig_size": 1783820,
-    "webp_size": 63550
-  },
-  {
-    "webp": "assets/images/webp/polerones-personalizados-estampados-dtf-santiago-chile-diseños-exclusivos-vinilo-textil-sublimación-en-la-granja-136.webp",
-    "type": "poleron",
-    "comuna": "la-granja",
-    "index": 136,
-    "orig_size": 1142561,
-    "webp_size": 35268
-  },
-  {
-    "webp": "assets/images/webp/polerones-personalizados-estampados-dtf-santiago-chile-diseños-exclusivos-vinilo-textil-sublimación-en-huechuraba-137.webp",
-    "type": "poleron",
-    "comuna": "huechuraba",
-    "index": 137,
-    "orig_size": 1288671,
-    "webp_size": 38926
-  },
-  {
-    "webp": "assets/images/webp/polerones-personalizados-estampados-dtf-santiago-chile-diseños-exclusivos-vinilo-textil-sublimación-en-cerro-navia-138.webp",
-    "type": "poleron",
-    "comuna": "cerro-navia",
-    "index": 138,
-    "orig_size": 662318,
-    "webp_size": 52080
-  },
-  {
-    "webp": "assets/images/webp/polerones-personalizados-estampados-dtf-santiago-chile-diseños-exclusivos-vinilo-textil-sublimación-en-san-bernardo-139.webp",
-    "type": "poleron",
-    "comuna": "san-bernardo",
-    "index": 139,
-    "orig_size": 698503,
-    "webp_size": 44614
-  },
-  {
-    "webp": "assets/images/webp/polerones-personalizados-estampados-dtf-santiago-chile-diseños-exclusivos-vinilo-textil-sublimación-en-san-joaquin-140.webp",
-    "type": "poleron",
-    "comuna": "san-joaquin",
-    "index": 140,
-    "orig_size": 491535,
-    "webp_size": 38718
-  },
-  {
-    "webp": "assets/images/webp/polerones-personalizados-estampados-dtf-santiago-chile-diseños-exclusivos-vinilo-textil-sublimación-en-independencia-141.webp",
-    "type": "poleron",
-    "comuna": "independencia",
-    "index": 141,
-    "orig_size": 400268,
-    "webp_size": 32444
-  },
-  {
-    "webp": "assets/images/webp/polerones-personalizados-estampados-dtf-santiago-chile-diseños-exclusivos-vinilo-textil-sublimación-en-padre-hurtado-142.webp",
-    "type": "poleron",
-    "comuna": "padre-hurtado",
-    "index": 142,
-    "orig_size": 375230,
-    "webp_size": 28698
-  },
-  {
-    "webp": "assets/images/webp/polerones-personalizados-estampados-dtf-santiago-chile-diseños-exclusivos-vinilo-textil-sublimación-en-buin-143.webp",
-    "type": "poleron",
-    "comuna": "buin",
-    "index": 143,
-    "orig_size": 350216,
-    "webp_size": 25158
-  },
-  {
-    "webp": "assets/images/webp/polerones-personalizados-estampados-dtf-santiago-chile-diseños-exclusivos-vinilo-textil-sublimación-en-lampa-144.webp",
-    "type": "poleron",
-    "comuna": "lampa",
-    "index": 144,
-    "orig_size": 635466,
-    "webp_size": 28662
-  },
-  {
-    "webp": "assets/images/webp/polerones-personalizados-estampados-dtf-santiago-chile-diseños-exclusivos-vinilo-textil-sublimación-en-paine-145.webp",
-    "type": "poleron",
-    "comuna": "paine",
-    "index": 145,
-    "orig_size": 306807,
-    "webp_size": 19218
-  },
-  {
-    "webp": "assets/images/webp/polerones-personalizados-estampados-dtf-santiago-chile-diseños-exclusivos-vinilo-textil-sublimación-en-colina-146.webp",
-    "type": "poleron",
-    "comuna": "colina",
-    "index": 146,
-    "orig_size": 372962,
-    "webp_size": 27766
-  },
-  {
-    "webp": "assets/images/webp/polerones-personalizados-estampados-dtf-santiago-chile-diseños-exclusivos-vinilo-textil-sublimación-en-pirque-147.webp",
-    "type": "poleron",
-    "comuna": "pirque",
-    "index": 147,
-    "orig_size": 248195,
-    "webp_size": 9280
-  },
-  {
-    "webp": "assets/images/webp/polerones-personalizados-estampados-dtf-santiago-chile-diseños-exclusivos-vinilo-textil-sublimación-en-tiltil-148.webp",
-    "type": "poleron",
-    "comuna": "tiltil",
-    "index": 148,
-    "orig_size": 381540,
-    "webp_size": 31284
-  },
-  {
-    "webp": "assets/images/webp/polerones-personalizados-estampados-dtf-santiago-chile-diseños-exclusivos-vinilo-textil-sublimación-en-melipilla-149.webp",
-    "type": "poleron",
-    "comuna": "melipilla",
-    "index": 149,
-    "orig_size": 459772,
-    "webp_size": 46092
-  },
-  {
-    "webp": "assets/images/webp/polerones-personalizados-estampados-dtf-santiago-chile-diseños-exclusivos-vinilo-textil-sublimación-en-alhue-150.webp",
-    "type": "poleron",
-    "comuna": "alhue",
-    "index": 150,
-    "orig_size": 299423,
-    "webp_size": 19648
-  },
-  {
-    "webp": "assets/images/webp/polerones-personalizados-estampados-dtf-santiago-chile-diseños-exclusivos-vinilo-textil-sublimación-en-santiago-151.webp",
+    "webp": "assets/images/webp/polerones-personalizados-estampados-dtf-santiago-chile-disenos-exclusivos-vinilo-textil-sublimacion-en-alhue-150.webp",
     "type": "poleron",
     "comuna": "santiago",
-    "index": 151,
-    "orig_size": 294193,
-    "webp_size": 13614
+    "index": 124
   },
   {
-    "webp": "assets/images/webp/polerones-personalizados-estampados-dtf-santiago-chile-diseños-exclusivos-vinilo-textil-sublimación-en-conchali-152.webp",
+    "webp": "assets/images/webp/polerones-personalizados-estampados-dtf-santiago-chile-disenos-exclusivos-vinilo-textil-sublimacion-en-buin-125.webp",
     "type": "poleron",
-    "comuna": "conchali",
-    "index": 152,
-    "orig_size": 391982,
-    "webp_size": 31140
+    "comuna": "santiago",
+    "index": 125
   },
   {
-    "webp": "assets/images/webp/polerones-personalizados-estampados-dtf-santiago-chile-diseños-exclusivos-vinilo-textil-sublimación-en-el-bosque-153.webp",
+    "webp": "assets/images/webp/polerones-personalizados-estampados-dtf-santiago-chile-disenos-exclusivos-vinilo-textil-sublimacion-en-buin-143.webp",
     "type": "poleron",
-    "comuna": "el-bosque",
-    "index": 153,
-    "orig_size": 335018,
-    "webp_size": 25582
+    "comuna": "santiago",
+    "index": 126
   },
   {
-    "webp": "assets/images/webp/polerones-personalizados-estampados-dtf-santiago-chile-diseños-exclusivos-vinilo-textil-sublimación-en-la-granja-154.webp",
+    "webp": "assets/images/webp/polerones-personalizados-estampados-dtf-santiago-chile-disenos-exclusivos-vinilo-textil-sublimacion-en-cerro-navia-138.webp",
     "type": "poleron",
-    "comuna": "la-granja",
-    "index": 154,
-    "orig_size": 311912,
-    "webp_size": 21858
+    "comuna": "santiago",
+    "index": 127
   },
   {
-    "webp": "assets/images/webp/polerones-personalizados-estampados-dtf-santiago-chile-diseños-exclusivos-vinilo-textil-sublimación-en-huechuraba-155.webp",
+    "webp": "assets/images/webp/polerones-personalizados-estampados-dtf-santiago-chile-disenos-exclusivos-vinilo-textil-sublimacion-en-colina-128.webp",
     "type": "poleron",
-    "comuna": "huechuraba",
-    "index": 155,
-    "orig_size": 349336,
-    "webp_size": 25596
+    "comuna": "santiago",
+    "index": 128
+  },
+  {
+    "webp": "assets/images/webp/polerones-personalizados-estampados-dtf-santiago-chile-disenos-exclusivos-vinilo-textil-sublimacion-en-colina-146.webp",
+    "type": "poleron",
+    "comuna": "santiago",
+    "index": 129
+  },
+  {
+    "webp": "assets/images/webp/polerones-personalizados-estampados-dtf-santiago-chile-disenos-exclusivos-vinilo-textil-sublimacion-en-conchali-134.webp",
+    "type": "poleron",
+    "comuna": "santiago",
+    "index": 130
+  },
+  {
+    "webp": "assets/images/webp/polerones-personalizados-estampados-dtf-santiago-chile-disenos-exclusivos-vinilo-textil-sublimacion-en-conchali-152.webp",
+    "type": "poleron",
+    "comuna": "santiago",
+    "index": 131
+  },
+  {
+    "webp": "assets/images/webp/polerones-personalizados-estampados-dtf-santiago-chile-disenos-exclusivos-vinilo-textil-sublimacion-en-el-bosque-135.webp",
+    "type": "poleron",
+    "comuna": "santiago",
+    "index": 132
+  },
+  {
+    "webp": "assets/images/webp/polerones-personalizados-estampados-dtf-santiago-chile-disenos-exclusivos-vinilo-textil-sublimacion-en-el-bosque-153.webp",
+    "type": "poleron",
+    "comuna": "santiago",
+    "index": 133
+  },
+  {
+    "webp": "assets/images/webp/polerones-personalizados-estampados-dtf-santiago-chile-disenos-exclusivos-vinilo-textil-sublimacion-en-huechuraba-137.webp",
+    "type": "poleron",
+    "comuna": "santiago",
+    "index": 134
+  },
+  {
+    "webp": "assets/images/webp/polerones-personalizados-estampados-dtf-santiago-chile-disenos-exclusivos-vinilo-textil-sublimacion-en-huechuraba-155.webp",
+    "type": "poleron",
+    "comuna": "santiago",
+    "index": 135
+  },
+  {
+    "webp": "assets/images/webp/polerones-personalizados-estampados-dtf-santiago-chile-disenos-exclusivos-vinilo-textil-sublimacion-en-independencia-123.webp",
+    "type": "poleron",
+    "comuna": "santiago",
+    "index": 136
+  },
+  {
+    "webp": "assets/images/webp/polerones-personalizados-estampados-dtf-santiago-chile-disenos-exclusivos-vinilo-textil-sublimacion-en-independencia-141.webp",
+    "type": "poleron",
+    "comuna": "santiago",
+    "index": 137
+  },
+  {
+    "webp": "assets/images/webp/polerones-personalizados-estampados-dtf-santiago-chile-disenos-exclusivos-vinilo-textil-sublimacion-en-la-granja-136.webp",
+    "type": "poleron",
+    "comuna": "santiago",
+    "index": 138
+  },
+  {
+    "webp": "assets/images/webp/polerones-personalizados-estampados-dtf-santiago-chile-disenos-exclusivos-vinilo-textil-sublimacion-en-la-granja-154.webp",
+    "type": "poleron",
+    "comuna": "santiago",
+    "index": 139
+  },
+  {
+    "webp": "assets/images/webp/polerones-personalizados-estampados-dtf-santiago-chile-disenos-exclusivos-vinilo-textil-sublimacion-en-lampa-126.webp",
+    "type": "poleron",
+    "comuna": "santiago",
+    "index": 140
+  },
+  {
+    "webp": "assets/images/webp/polerones-personalizados-estampados-dtf-santiago-chile-disenos-exclusivos-vinilo-textil-sublimacion-en-lampa-144.webp",
+    "type": "poleron",
+    "comuna": "santiago",
+    "index": 141
+  },
+  {
+    "webp": "assets/images/webp/polerones-personalizados-estampados-dtf-santiago-chile-disenos-exclusivos-vinilo-textil-sublimacion-en-melipilla-131.webp",
+    "type": "poleron",
+    "comuna": "santiago",
+    "index": 142
+  },
+  {
+    "webp": "assets/images/webp/polerones-personalizados-estampados-dtf-santiago-chile-disenos-exclusivos-vinilo-textil-sublimacion-en-melipilla-149.webp",
+    "type": "poleron",
+    "comuna": "santiago",
+    "index": 143
+  },
+  {
+    "webp": "assets/images/webp/polerones-personalizados-estampados-dtf-santiago-chile-disenos-exclusivos-vinilo-textil-sublimacion-en-padre-hurtado-124.webp",
+    "type": "poleron",
+    "comuna": "santiago",
+    "index": 144
+  },
+  {
+    "webp": "assets/images/webp/polerones-personalizados-estampados-dtf-santiago-chile-disenos-exclusivos-vinilo-textil-sublimacion-en-padre-hurtado-142.webp",
+    "type": "poleron",
+    "comuna": "santiago",
+    "index": 145
+  },
+  {
+    "webp": "assets/images/webp/polerones-personalizados-estampados-dtf-santiago-chile-disenos-exclusivos-vinilo-textil-sublimacion-en-paine-127.webp",
+    "type": "poleron",
+    "comuna": "santiago",
+    "index": 146
+  },
+  {
+    "webp": "assets/images/webp/polerones-personalizados-estampados-dtf-santiago-chile-disenos-exclusivos-vinilo-textil-sublimacion-en-paine-145.webp",
+    "type": "poleron",
+    "comuna": "santiago",
+    "index": 147
+  },
+  {
+    "webp": "assets/images/webp/polerones-personalizados-estampados-dtf-santiago-chile-disenos-exclusivos-vinilo-textil-sublimacion-en-pirque-129.webp",
+    "type": "poleron",
+    "comuna": "santiago",
+    "index": 148
+  },
+  {
+    "webp": "assets/images/webp/polerones-personalizados-estampados-dtf-santiago-chile-disenos-exclusivos-vinilo-textil-sublimacion-en-pirque-147.webp",
+    "type": "poleron",
+    "comuna": "santiago",
+    "index": 149
+  },
+  {
+    "webp": "assets/images/webp/polerones-personalizados-estampados-dtf-santiago-chile-disenos-exclusivos-vinilo-textil-sublimacion-en-san-bernardo-139.webp",
+    "type": "poleron",
+    "comuna": "santiago",
+    "index": 150
+  },
+  {
+    "webp": "assets/images/webp/polerones-personalizados-estampados-dtf-santiago-chile-disenos-exclusivos-vinilo-textil-sublimacion-en-san-joaquin-140.webp",
+    "type": "poleron",
+    "comuna": "santiago",
+    "index": 151
+  },
+  {
+    "webp": "assets/images/webp/polerones-personalizados-estampados-dtf-santiago-chile-disenos-exclusivos-vinilo-textil-sublimacion-en-santiago-133.webp",
+    "type": "poleron",
+    "comuna": "santiago",
+    "index": 152
+  },
+  {
+    "webp": "assets/images/webp/polerones-personalizados-estampados-dtf-santiago-chile-disenos-exclusivos-vinilo-textil-sublimacion-en-santiago-151.webp",
+    "type": "poleron",
+    "comuna": "santiago",
+    "index": 153
+  },
+  {
+    "webp": "assets/images/webp/polerones-personalizados-estampados-dtf-santiago-chile-disenos-exclusivos-vinilo-textil-sublimacion-en-tiltil-130.webp",
+    "type": "poleron",
+    "comuna": "santiago",
+    "index": 154
+  },
+  {
+    "webp": "assets/images/webp/polerones-personalizados-estampados-dtf-santiago-chile-disenos-exclusivos-vinilo-textil-sublimacion-en-tiltil-148.webp",
+    "type": "poleron",
+    "comuna": "santiago",
+    "index": 155
   }
 ]
