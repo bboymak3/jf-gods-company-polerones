@@ -473,8 +473,8 @@ document.addEventListener('keydown', function(e) {
   if (e.key === 'ArrowLeft') prevLightbox({stopPropagation:function(){}});
   if (e.key === 'ArrowRight') nextLightbox({stopPropagation:function(){}});
 });
-document.querySelectorAll('img').forEach(function(img) {
-  if (img.src.includes('webp') && !img.hasAttribute('data-nolightbox')) {
+document.querySelectorAll('.gallery-grid img').forEach(function(img) {
+  if (img.src.includes('webp')) {
     img.style.cursor = 'pointer';
     img.addEventListener('click', function() {
       var src = img.getAttribute('src');
